@@ -6,8 +6,7 @@ const appRoutes: Routes = [
     {
         path: 'contacts',
         component: ContactsComponent,
-    }
-
+    },
 ]
 
 @NgModule({
